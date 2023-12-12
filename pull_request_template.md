@@ -1,5 +1,11 @@
-<!-- 下記の"Jootoのタスク番号", "JootoのタスクURL"を記入してください -->
+<!-- このPRで解決される"issue番号"を記入してください（あれば） -->
 
-バックログ：[Jootoのタスク番号](JootoのタスクURL)
+Closes #issue番号
 
-<!-- 例： [123](https://app.jooto.com/boards#456789?task_id=11235813&organization_id=235711) -->
+<!-- 例： Closes #123 -->
+
+<!-- このPRで解決はしないけど参照したいissueがあるなら、次のように記入できます -->
+<!-- 例： ref #123 -->
+
+<!-- ほかのリポジトリのissueを参照することもできます -->
+<!-- 例： ref photonicsystemsolutions/.github#123 -->
